@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+*{
+  font-family: "Roboto Slab", serif;
+}
+
+a{
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.logo{
+    width: 150px;
+}  
+
+.card-img{
+  height: 500px;
+  width: auto;
+}
+
+.card-header p{
+  color: rgb(51, 95, 53); 
+}
+
+#titulo-cat{
+  color: rgb(170, 241, 179);
+}
+
+#div-categoria{
+  padding-bottom: 30px;
+}
+.categorias{
+  height: auto;
+  padding-top: 10px;
+  background-image: url('img/categorias/fundo.png');
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 768px) and (max-width:1200px){ 
+  .card-img{
+    height: 350px;
+    width: auto;
+  }
+ }

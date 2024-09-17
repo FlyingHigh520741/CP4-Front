@@ -1,4 +1,4 @@
-***   EcoShop - Loja Online de Produtos Sustentáveis   ***
+***EcoShop - Loja Online de Produtos Sustentáveis***
 
 Este é o código-fonte do site da EcoShop, um e-commerce que oferece uma variedade de produtos sustentáveis e ecológicos. Nossa missão é conectar consumidores conscientes a empresas que compartilham o compromisso com a preservação ambiental.
 Estrutura do Projeto
